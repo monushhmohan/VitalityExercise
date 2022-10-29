@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace SpecFlowProject2.Features
+namespace VitalityExercise.Features
 {
     using TechTalk.SpecFlow;
     using System;

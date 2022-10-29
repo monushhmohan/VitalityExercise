@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProject2", "SpecFlowProject2\SpecFlowProject2.csproj", "{71B144AF-CBE8-4D1F-871E-2BF8D6C31167}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VitalityExercise", "SpecFlowProject2\VitalityExercise.csproj", "{71B144AF-CBE8-4D1F-871E-2BF8D6C31167}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
