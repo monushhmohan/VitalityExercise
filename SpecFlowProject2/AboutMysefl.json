@@ -1,0 +1,23 @@
+{
+  "name": "Mohan",
+  "lastname": "Chantada",
+  "age": 37,
+  "nationality": "Indian",
+  "livesin": "Southampton",
+  "passions": [
+    "Programming",
+    "Testing",
+    "Teaching others"
+  ],
+  "interests": [
+    "Cricket",
+    "Movies",
+    "Reading"
+  ],
+  "dreams": [
+    "To make this world a better place!"
+  ],
+  "believes": [
+    "Sooner or later the person who think 'I can' is the person who can 'win!'"
+  ]
+}
